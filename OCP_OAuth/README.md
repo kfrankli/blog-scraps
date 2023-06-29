@@ -1,6 +1,6 @@
 # OCP OAuth
 
-Diagram created via LucidChart showing OpenShift OAuth Proxy Flow
+Animated GIF Diagram created via LucidChart showing OpenShift OAuth Proxy Flow
 
 ![OAuth Animated Diagram](Diagram.gif)
 
